@@ -16,7 +16,7 @@ print(100-10)
 #bullet point two
 thirty = 30
 six = 6
-print(thirty*six) #I did * since +* isn't recognized
+
 print(six^six)
 print(six**six)
 print(six+six+six+six+six+six)
